@@ -200,7 +200,7 @@
     }
 
     .home-decoration__text-block{
-        background: url("../img/lines.svg");
+        background: url("lines.svg");
         /* flex-grow: 1; */
         width: 70%;
         z-index: 3;
